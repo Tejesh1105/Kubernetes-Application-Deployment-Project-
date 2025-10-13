@@ -1,5 +1,5 @@
 # Production Deployment of Multi-Tier Application on Kubernetes (VProfile Stack)
-
+![alt text](https://github.com/Tejesh1105/Kubernetes-Application-Deployment-Project-/blob/main/Kubernetes%20app%202.PNG)
 ## 1. Project Overview
 
 This project is all about taking our already packaged web application (the VProfile Java stack) and launching it safely onto a live production environment. We're using **Kubernetes** running on **Amazon Web Services (AWS)** for this.
